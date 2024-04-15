@@ -42,7 +42,7 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: nugetPackage
-        path: bin/Release/ 
+        path: src/jwtcookie/Authentication/bin/Release/ 
         
   release:
     runs-on: ubuntu-latest    
