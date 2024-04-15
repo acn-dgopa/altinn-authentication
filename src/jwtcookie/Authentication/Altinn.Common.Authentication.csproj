@@ -6,13 +6,10 @@
     <!-- SonarCloud needs this -->
     <ProjectGuid>{3aa4860c-e86b-488f-ae89-b0a28bc1f701}</ProjectGuid>
   </PropertyGroup>
-  <PropertyGroup> 
-    <RepositoryUrl>https://github.com/acn-dgopa/altinn-authentication</RepositoryUrl>
-  </PropertyGroup>
   <PropertyGroup>
     <!-- NuGet package properties -->
     <PackageId>JWTCookieAuthentication</PackageId>
-    <Version>4.0.1</Version>
+    <Version>4.0.2</Version>
     <PackageTags>jwtnugettest</PackageTags>
     <Description>
       JWTCookieAuthentication is a package for usage of JWT token for authentication both
@@ -22,7 +19,7 @@
     </PackageReleaseNotes>
     <Authors>Altinn Platform Contributors</Authors>
     <RepositoryType>git</RepositoryType>
-    <RepositoryUrl>https://github.com/acn-dgopa/altinn-studio</RepositoryUrl>
+    <RepositoryUrl>https://github.com/acn-dgopa/altinn-authentication</RepositoryUrl>
     <IncludeSymbols>true</IncludeSymbols>
     <SymbolPackageFormat>snupkg</SymbolPackageFormat>
   </PropertyGroup>
